@@ -75,11 +75,13 @@ Google Ads Customer Match, Klaviyo Flow Architecture
 
 ## Strategy Recommendations
 
-See `strategy_recommendations.md` for:
-- Klaviyo lifecycle flows mapped to each RFM segment
-- Google Ads audience strategy (Customer Match, RLSA, lookalike seeds)
-- Churn intervention priority list with revenue at risk per segment
-- Send-time and bid scheduling recommendations from EDA timing analysis
+See [`strategy_recommendations.md`](./strategy_recommendations.md) for the full findings and action plan, including:
+
+- **£5.5M revenue at risk** quantified across five segments with churn probabilities
+- **CRM flows** mapped to each RFM segment — Champions VIP retention, Loyal reward flow, At Risk manual override
+- **Google Ads strategy** — Customer Match, RLSA bid boosts, win-back display, and negative audience suppression
+- **Budget reallocation** recommendation based on attribution analysis — Social underperforms across all three models
+- **Methodology notes** covering data cleaning decisions, model selection rationale, and attribution approach
 
 ---
 
