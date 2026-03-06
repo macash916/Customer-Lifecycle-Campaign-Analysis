@@ -1,6 +1,6 @@
 # Customer Lifecycle & Campaign Analysis
 
-**Author:** Amrit Sharma · MSc Business Analytics · Durham University  
+**Author:** Amrit Sharma
 **Dataset:** Online Retail II (UCI Machine Learning Repository) — UK gift & homeware retailer, 2009–2011  
 **Stack:** Python · pandas · scikit-learn · SQLite · Matplotlib · Klaviyo · Google Ads
 
